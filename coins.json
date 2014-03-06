@@ -6200,7 +6200,7 @@
   {
     "Name": "Vodcacoin",
     "Abbreviation": "VDC",
-    "Announce": "30/021/2014",
+    "Announce": "30/02/2014",
     "Genesis": "29/01/2014",
     "ForkedFrom": "PIC",
     "PoW": "Scrypt(128K,1,1)",

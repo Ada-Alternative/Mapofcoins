@@ -103,7 +103,7 @@
     "Announce": "30/05/2014",
     "Genesis": null,
     "ForkedFrom": "BCN",
-    "Status": "Running",
+    "Status": "Dead",
     "PoW": "CryptoNight",
     "PoS": "no",
     "P2P": null,
@@ -134,7 +134,7 @@
     "P2P": 42080,
     "RPC": 42081,
     "BlockTime": 240,
-    "Reward": "Initial Block reward = 320000 [duck]",
+    "Reward": "Initial Block reward = 320000 DarkNote",
     "HalfingCycle": 11000 ,
     "Total": 8589869056,
     "Premine": null,
@@ -144,7 +144,7 @@
     "ANN": "https://bitcointalk.org/index.php?topic=632595.0",
     "Code": "https://github.com/ducknote/ducknote",
     "Site": "http://darknote.cc/",
-    "Info": "duckNote is still a deflation cryptocurrency with no inflation and with 150 [duck] minimum block reward it will takes approximately 77 years to reach MAX duckNote value.",
+    "Info": "duckNote is still a deflation cryptocurrency with no inflation and with 150 DarkNote minimum block reward it will takes approximately 77 years to reach MAX duckNote value.",
     "algo": "CryptoNight"
   },
   {

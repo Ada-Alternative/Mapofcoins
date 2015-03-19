@@ -8156,7 +8156,7 @@
     "algo": "Scrypt"
   },
   {
-    "Name": "Piggy\u0441oin",
+    "Name": "PiggyCoin",
     "Abbreviation": "PIG",
     "Announce": "25/02/2014",
     "Genesis": null,
@@ -13765,7 +13765,7 @@
     "algo": "Scrypt"
   },
   {
-    "Name": "M\u00f6biusCoin",
+    "Name": "MobiusCoin",
     "Abbreviation": "MOBI",
     "Announce": "08/09/2014",
     "Genesis": null,
@@ -16412,5 +16412,31 @@
     "Site": null,
     "Info": null,
     "algo": "SHA256"
+  },
+  {
+    "Name": "BunnyCoin",
+    "Abbreviation":"BUN",
+    "Announce": "29/04/2014",
+    "Genesis": null ,
+    "ForkedFrom": "LTC",
+    "Status": "Running",
+    "PoW": "Scrypt",
+    "PoS": null,
+    "P2P": "48445" ,
+    "RPC": "48444" ,
+    "BlockTime":null,
+    "Reward":null ,
+    "RewardInfo": null,
+    "HalfingCycle":null,
+    "Total":null ,
+    "Premine": null,
+    "DifficultyCycle": null,
+    "TxsConfirm": null,
+    "MintConfirm": null,
+    "ANN": "https://bitcointalk.org/index.php?topic=589180.0",
+    "Code": "https://github.com/bunnycoin/bunnycoin",
+    "Site": null,
+    "Info": null,
+    "algo": "Scrypt"
   }
 ]

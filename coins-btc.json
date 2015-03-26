@@ -3681,7 +3681,7 @@
     "ANN": "https://bitcointalk.org/index.php?topic=281373.0",
     "Code": "http://rghost.net/48390103",
     "Site": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Quickcoin",
@@ -5268,7 +5268,7 @@
     "ANN": "https://bitcointalk.org/index.php?topic=386973.0",
     "Code": "Source code is not open until coin is widely accepted.",
     "Site": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Animecoin",
@@ -6933,7 +6933,7 @@
     "Code": "https://github.com/takeicoin/takeicoin",
     "Site": "http://takeicoin.org/",
     "Info": "Founded by Jordan Schneider and Michael Serao",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Lemoncoin",
@@ -7643,7 +7643,7 @@
     "ANN": "https://bitcointalk.org/index.php?topic=465846.msg5148362#msg5148362",
     "Code": null,
     "Site": "http://www.podcoin.org/",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Spodermancoin",
@@ -8532,7 +8532,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 7701,
     "RPC": 7700,
@@ -8548,7 +8548,7 @@
     "Code": "https://github.com/ARSCoin/arkenstone.git",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Sync",
@@ -8607,7 +8607,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "yes",
     "P2P": null,
     "RPC": null,
@@ -8623,7 +8623,7 @@
     "Code": "https://github.com/BitcoinNew/BitcoinNEW",
     "Site": "http://BitcoinNEW.org",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "XtraCoin",
@@ -8632,7 +8632,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "yes",
     "P2P": null,
     "RPC": null,
@@ -8648,7 +8648,7 @@
     "Code": "https://github.com/xtracoin/xtracoin",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Malegebe",
@@ -9480,7 +9480,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 28765,
     "RPC": 28764,
@@ -9496,7 +9496,7 @@
     "Code": "https://github.com/PayProCoin/PayProCoin",
     "Site": "www.payprocoin.com",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Fractalcoin",
@@ -9795,7 +9795,7 @@
     "Code": "https://github.com/sjmariogolf/CANTORcoin",
     "Site": "https://sites.google.com/site/cantorcoin/",
     "Info": "Cantorcoin is open-source its design is public, nobody owns or controls, Cantorcoin and everyone can participate",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "CoCoCoin",
@@ -10278,7 +10278,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": null,
     "RPC": null,
@@ -10294,7 +10294,7 @@
     "Code": null,
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Judge Coin",
@@ -11102,7 +11102,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": null,
     "RPC": null,
@@ -11118,7 +11118,7 @@
     "Code": null,
     "Site": "http://eu.centralcavern.uk:8080",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Sovereign",
@@ -11126,7 +11126,7 @@
     "Announce": "03/07/2014",
     "Genesis": null,
     "ForkedFrom": "BTC",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": null,
     "RPC": null,
@@ -11142,7 +11142,7 @@
     "Code": null,
     "Site": "http://eu.centralcavern.uk:8080",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "CoffeeCoin",
@@ -11192,7 +11192,7 @@
     "Code": null,
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "APEX Coin",
@@ -11325,7 +11325,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "yes",
     "P2P": 14631,
     "RPC": 14632,
@@ -11341,7 +11341,7 @@
     "Code": "https://github.com/laowais/bitcoindark",
     "Site": "http://www.bitcoindark.org/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Spartacus",
@@ -11449,7 +11449,7 @@
     "Announce": "01/09/2014",
     "Genesis": null,
     "ForkedFrom": "BTC",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": 8333,
     "RPC": 8332,
@@ -11464,7 +11464,7 @@
     "Code": "https://github.com/acoin-project/acoin",
     "Site": "http://a-coin.info/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "MinersCoin",
@@ -11610,7 +11610,7 @@
     "Code": null,
     "Site": "www.umbrella.holdings",
     "Info": "Merge-mined with Bitcoin",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "FairByte Coin",
@@ -11844,7 +11844,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "No",
     "P2P": 7331,
     "RPC": 17331,
@@ -11860,7 +11860,7 @@
     "Code": "https://github.com/instantcoin/instantcoin",
     "Site": "http://florincoin.com/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "MultiCoin",
@@ -12108,7 +12108,7 @@
     "Code": null,
     "Site": null,
     "Info": "new idea, no blocks, no chain, only transactions",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "ZipCoin",
@@ -12620,7 +12620,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "yes",
     "P2P": 46513,
     "RPC": 46512,
@@ -12635,7 +12635,7 @@
     "Code": "https://github.com/SonicScrew/SonicScrewdriver",
     "Site": "http://www.sonic-coin.com/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Darkfox",
@@ -12659,7 +12659,7 @@
     "Code": "https://github.com/darkfox1/darkfox",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "DEPO",
@@ -12875,7 +12875,7 @@
     "Code": null,
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "BigBangCoin",
@@ -13004,7 +13004,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 21090,
     "RPC": 11090,
@@ -13019,7 +13019,7 @@
     "Code": "https://dl.dropboxusercontent.com/u/16693637/asdcoin-source.gz",
     "Site": "http://asdcoin.com/",
     "Info": "A cryptocurrency for the autistic community",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Rebirthcoin",
@@ -13028,7 +13028,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": null,
     "RPC": null,
@@ -13043,7 +13043,7 @@
     "Code": null,
     "Site": null,
     "Info": "The coin idea is based to help old/Undervalued community and old/Undervalued currencies",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "BIGBullion",
@@ -13067,7 +13067,7 @@
     "Code": "https://github.com/BIGBullion/bigbullion",
     "Site": "http://bigbullion.co/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "DoubleEagle",
@@ -13139,7 +13139,7 @@
     "Code": null,
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "GreenBacks",
@@ -13771,7 +13771,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 11012,
     "RPC": 21012,
@@ -13786,7 +13786,7 @@
     "Code": "https://github.com/mobiuscoin/MobiusCoin",
     "Site": "http://www.mobiuscoin.com/home.html",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Opal",
@@ -13915,7 +13915,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": null,
     "RPC": null,
@@ -13930,7 +13930,7 @@
     "Code": null,
     "Site": "nodecoin.com",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "WorldWideCoin",
@@ -13939,7 +13939,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 8333,
     "RPC": 8332,
@@ -13954,7 +13954,7 @@
     "Code": "https://github.com/WorldWideCoin/wwcoin",
     "Site": "http://www.worldwidecoin.tk",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Crytographic Anomaly",
@@ -14226,7 +14226,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "null",
     "P2P": 11080,
     "RPC": 21080,
@@ -14241,7 +14241,7 @@
     "Code": "null",
     "Site": "http://aurumcoin.eu/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Swapping",
@@ -14416,7 +14416,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 10989,
     "RPC": 10789,
@@ -14431,7 +14431,7 @@
     "Code": "https://github.com/DOGEBC/PeercoinDark_v2_PPCD",
     "Site": "http://www.peercoindark.net/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Songcoin",
@@ -14632,7 +14632,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 11090,
     "RPC": 21090,
@@ -14647,7 +14647,7 @@
     "Code": "https://github.com/DOGEBC/DOGEBC_DOGEBLACKCOIN",
     "Site": "www.DogeBlackCoin.info",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Sembro Token",
@@ -14848,7 +14848,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 10989,
     "RPC": 10789,
@@ -14863,7 +14863,7 @@
     "Code": "https://github.com/DOGEBC/PeercoinDark_v2_PPCD",
     "Site": "http://www.peercoindark.net/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "MistCoin",
@@ -14944,7 +14944,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "yes",
     "P2P": null,
     "RPC": null,
@@ -14959,7 +14959,7 @@
     "Code": "https://github.com/CarsonCloak/fudcoin",
     "Site": "http://fudcoin.net/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "OptimumCoin",
@@ -14992,7 +14992,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": null,
     "RPC": null,
@@ -15007,7 +15007,7 @@
     "Code": "https://github.com/bigdeej/flirtcoin",
     "Site": "http://Flirt.Life/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "UCoin",
@@ -15040,7 +15040,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 11000,
     "RPC": 21000,
@@ -15055,7 +15055,7 @@
     "Code": "https://github.com/URANUSCOIN-URAN-SHA256/URANUSCOIN-URAN",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "PimpCash",
@@ -15304,7 +15304,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": null,
     "RPC": null,
@@ -15319,7 +15319,7 @@
     "Code": "https://github.com/flirtcoin/flirtcoin",
     "Site": "https://flirt.life/",
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "VIRTUALDIBS",
@@ -15472,7 +15472,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": "11000",
     "RPC": "21000",
@@ -15487,7 +15487,7 @@
     "Code": "https://github.com/DecryptRcoin/DecryptRcoin",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Weed Tokens",
@@ -15688,7 +15688,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA-256",
+    "PoW": "SHA-256d",
     "PoS": null,
     "P2P": "21075",
     "RPC": "11075",
@@ -15703,7 +15703,7 @@
     "Code": "https://github.com/ePAYERCOIN/ePAYERCOIN_SHA256",
     "Site": null,
     "Info": null,
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Einsteinium",
@@ -16156,7 +16156,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Dead",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": 11072,
     "RPC": 21072,
@@ -16171,7 +16171,7 @@
     "ANN": "https://bitcointalk.org/index.php?topic=553703.0",
     "Code": "https://github.com/matrixcoin/matrixcoin",
     "Site": "http://www.mtxcoin.com",
-    "algo": "SHA-2"
+    "algo": "SHA-256d"
   },
   {
     "Name": "Giarcoin",
@@ -16396,7 +16396,7 @@
     "Genesis": null,
     "ForkedFrom": "BTC",
     "Status": "Running",
-    "PoW": "SHA256",
+    "PoW": "SHA-256d",
     "PoS": "no",
     "P2P": null,
     "RPC": null,
@@ -16411,7 +16411,7 @@
     "Code": "https://github.com/supcoin/supcoin",
     "Site": null,
     "Info": null,
-    "algo": "SHA256"
+    "algo": "SHA-256d"
   },
   {
     "Name": "BunnyCoin",
